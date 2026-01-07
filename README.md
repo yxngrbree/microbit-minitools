@@ -1,5 +1,4 @@
 
-> Open this page at [https://yxngrbree.github.io/microbit-minitools/](https://yxngrbree.github.io/microbit-minitools/)
 
 ## Use as Extension
 
